@@ -3,4 +3,4 @@
 
 ### [Gann Graphics](graphics)
 
-### [Turtle Logo](turtlelogo)
+### [Turtle Logo](turtle-logo)
